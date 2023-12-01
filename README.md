@@ -1,14 +1,48 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+<h1 align="center">
+    Hi <img src="./assets/Hi.gif" width="30px"> <br>
+    I'm <b>Kimoto Atsumi</b> (atsumi000105)
+</h1>
+
+
+<div align="center">
+<!-- website -->
+    <a href="https://atsumi-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    </a>
+    <a href="https://discord.gg/eyJGD5sT"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
+    <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
+    <a href="https://join.slack.com/t/atsumi_workspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
+    <a href="mailto:atsumi000105@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+</div>
+<br>
+
 <div>
 <br/>
+
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.</br>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
+
+### STUDY
+
+<table style="border-collapse: collapse;">
+    <tr>
+        <td align="center">
+            <img src="./assets/logo.png" alt="hcmus logo" width="120px">
+        </td>
+        <td>
+            <h3 style="margin: 0;">Alice Salomon Hochschule Berlin
+</h3> 
+            <sup style="color: gray;">2011 - 2015</sup>
+            <p>Bachelor of <b>Computer Network and Information Security</b></p>
+        </td>
+    </tr>
+</table>
+
 
 # Main Skills #
 
@@ -199,7 +233,7 @@
 <a href="https://stackoverflow.com/users/22854660/evan-you"><img src="https://www.logo.wine/a/logo/Stack_Overflow/Stack_Overflow-Icon-Logo.wine.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
 
 To comtact me.
-atsumi000105@gmail.com
+micooper9041@gmail.com
 
 
 <table>
@@ -388,3 +422,8 @@ atsumi000105@gmail.com
 <a href="https://github.com/seniorcoder72/freelancer-create-account-bot" target="_blank">![FreelancerCreateAccountBot](https://user-images.githubusercontent.com/132613676/261790892-e62c9b6b-4b1f-491d-b894-201263ffd8a0.gif?raw=true)</a>
 ## Theme & Dashboard
 <a href="https://github.com/seniorcoder72/Kanban-React" target="_blank">![KanbanReact](https://raw.githubusercontent.com/seniorcoder72/Kanban-React/master/img/img1.jpg?raw=true)</a>
+
+<div align="center">
+    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
+</div>
+
