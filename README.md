@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Full Stack Developer</b> (atsumi000105)
+    I'm <b>Full Stack Developer</b> (Kimoto)
 </h1>
 
 
